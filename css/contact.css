@@ -60,6 +60,10 @@
     flex-direction: column;
     gap: 1rem;
   }
+
+    label {
+        color: #fff;
+    }
   
 input,
 textarea {
